@@ -1,2 +1,2 @@
 # ibm-davns
-## forest fire pediction
+## forest fire prediction
